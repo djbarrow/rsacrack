@@ -1,0 +1,26 @@
+Barrows remainder theorem:
+==========================
+( If nobody else discovered it )
+
+
+Let a[1]...a[m],n  all be integers then
+
+
+((a[1] mod n)(a[2] mod n)....(a[m] mon n)mod n = (a[1]*a[2]*....*a[m])mod n
+
+
+Proof:
+
+If a mod n = r 
+=> a = (n*k)+r where k is an integer & r is the remainder
+
+
+(n[i]+r[i])*(n[j]+r[j]) = n^2
+
+
+
+
+
+
+
+
