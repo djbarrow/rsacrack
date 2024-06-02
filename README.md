@@ -1,4 +1,5 @@
 # rsacrack
+Please read all of this I tried to crack rsa for one man year by night to pull pretty women with my reputation.
 These are my attempts to crack RSA.
 RSA the encryption algorithm that secures all the Worlds Banks for since 1975 is based on a mathematical
 problem which has stumped the best Mathematicians in the World since the Stone Age, the factoring of 
@@ -7,10 +8,17 @@ large numbers.
 I believe this is cracked the prize challenge numbers on the rsa website are no longer there.
 Banks please use this technique, I can't crack this https://en.wikipedia.org/wiki/Multiple_encryption but telling me 
 a problem a 10 year old can understand says to me its wide open to a smartypants.
-Dave Flannnerys daughter my maths teacher won a young scientist or Irelandprize for her prime encryption technique
+Dave Flannnerys daughter Sarah my maths teacher won a young scientist or Ireland Prize for her prime encryption technique
 a hacker broke it in 6 months.
 
 I'm aware of a back dooor in GnuTLS findable by any fool.
+
+If they can do a question answer differential equation on the entire of google called chatgpt what hope has 2048 bit
+factorisation to a hacker.
+
+The nature of the hacker is the bigger the puzzle the more likely it will be cracked hackers love puzzles.
+I've a buddy Segher who learned russian to read a number theory book.
+
 
 The guts of RSA is based on choosing two large Prime Numbers, numbers only divisible by one and itself,
 typically over 100 decimal digits long. Multiplying them together, this is your magic number & then let 
