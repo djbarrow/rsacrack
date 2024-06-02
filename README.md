@@ -11,7 +11,7 @@ a problem a 10 year old can understand says to me its wide open to a smartypants
 Dave Flannnerys daughter Sarah my maths teacher won a young scientist or Ireland Prize for her prime encryption technique
 a hacker broke it in 6 months.
 
-I'm aware of a back dooor in GnuTLS findable by any fool.
+I'm aware of a back dooor in https security library in chrome GnuTLS findable by any fool willing to read or ask google.
 
 If they can do a question answer differential equation on the entire of google called chatgpt what hope has 2048 bit
 factorisation to a hacker.
