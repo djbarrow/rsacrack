@@ -4,6 +4,14 @@ RSA the encryption algorithm that secures all the Worlds Banks for since 1975 is
 problem which has stumped the best Mathematicians in the World since the Stone Age, the factoring of 
 large numbers.
 
+I believe this is cracked the prize challenge numbers on the rsa website are no longer there.
+Banks please use this technique, I can't crack this https://en.wikipedia.org/wiki/Multiple_encryption but telling me 
+a problem a 10 year old can understand says to me its wide open to a smartypants.
+Dave Flannnerys daughter my maths teacher won a young scientist or Irelandprize for her prime encryption technique
+a hacker broke it in 6 months.
+
+I'm aware of a back dooor in GnuTLS findable by any fool.
+
 The guts of RSA is based on choosing two large Prime Numbers, numbers only divisible by one and itself,
 typically over 100 decimal digits long. Multiplying them together, this is your magic number & then let 
 some misfortunate hacker try to figure out what the 2 numbers are. If he can find them RSA is hacked. 
